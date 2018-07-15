@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: 'http://pbuw2vh6j.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720180714204439.jpg'
 
 #是否开启分享
 share_jia: true
